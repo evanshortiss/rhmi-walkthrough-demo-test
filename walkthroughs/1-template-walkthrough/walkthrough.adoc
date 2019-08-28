@@ -17,11 +17,11 @@ This will help us demonstrate sections.
 
 Here's an image for good measure.
 
-image::assets/doge.png[Doge]
+image::/assets/doge.png[Doge]
 
 And here's a link to a file.
 
-link:assets/example.js[Sample JS File]
+link:/assets/example.js[Sample JS File]
 
 === Getting Started Part 1
 
