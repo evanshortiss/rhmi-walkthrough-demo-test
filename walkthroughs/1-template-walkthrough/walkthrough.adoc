@@ -2,6 +2,14 @@
 
 This walkthrough is being developed for the purpose of demonstration in a webinar.
 
+[type=walkthroughResource,serviceName=openshift]
+.Red Hat OpenShift
+****
+* link:{openshift-host}/console[Console, window="_blank"]
+* link:https://help.openshift.com/[Openshift Online Help Center, window="_blank"]
+* link:https://blog.openshift.com/[Openshift Blog, window="_blank"]
+****
+
 [time=5]
 == Getting Started
 
@@ -16,6 +24,14 @@ This will help us demonstrate sections.
 
 . Do first step.
 . Do second step.
+
+[type=verification]
+====
+Did it work?
+====
+
+[type=verificationFail]
+Try the steps again. If it's still not working contact your administrator.
 
 [time=10]
 == A Second Step
