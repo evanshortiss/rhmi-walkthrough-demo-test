@@ -1,14 +1,29 @@
-= Template Walkthrough
+= RHMI Solution Explorer Webinar
 
-// This is a template meant to be used as a starting point for walkthrough development
+This walkthrough is being developed for the purpose of demonstration in a webinar.
 
 [time=5]
-== Task Title
+== Getting Started
 
-// Subtasks are not required. 
-// For simple walkthroughs, create your procedure under tasks.
+This will help us demonstrate sections.
 
-=== Subtask Title
+=== Getting Started Part 1
 
 . Do first step.
 . Do second step.
+
+=== Getting Started Part 2
+
+. Do first step.
+. Do second step.
+
+[time=10]
+== A Second Step
+
+More sections for the example.
+
+=== Subsection
+
+. Do first step.
+. Do second step.
+
