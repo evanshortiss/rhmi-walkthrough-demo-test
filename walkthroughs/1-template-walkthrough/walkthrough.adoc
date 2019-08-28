@@ -17,7 +17,7 @@ This will help us demonstrate sections.
 
 Here's an image for good measure.
 
-image::assets/doge.png[Doge]
+image::assets/doge.jpeg[Doge]
 
 And here's a link to a file.
 
