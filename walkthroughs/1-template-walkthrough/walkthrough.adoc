@@ -15,6 +15,14 @@ This walkthrough is being developed for the purpose of demonstration in a webina
 
 This will help us demonstrate sections.
 
+Here's an image for good measure.
+
+image::assets/doge.png[Doge]
+
+And here's a link to a file.
+
+link:assets/example.js[Sample JS File]
+
 === Getting Started Part 1
 
 . Do first step.
